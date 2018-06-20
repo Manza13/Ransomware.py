@@ -20,7 +20,7 @@ chars_may = "QWERTYUIOPASDFGHJKLZXCVBNM"
 nums = "0123456789"
 
 path_linux = "/root/Desktop/"
-extensiones = ['.mp4', 'jpg', '.png', '.mp3']		#Extensiones que van a ser infectados [Si añade bastante añada comas]
+extensiones = ['.mp4', '.jpg', '.png', '.mp3']		#Extensiones que van a ser infectados [Si añade bastante añada comas]
 
 def gen_ID(size=10, caracteres = chars_min + chars_may + nums):
 	global ID
