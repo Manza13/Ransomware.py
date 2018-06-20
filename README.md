@@ -1,7 +1,7 @@
 # Ransomware.py
 --> Español:
 
-Estos dos código creados en python3 se trata para conocer el funcionamiento de un ransomware, este ransomware cifra los archivos que se le indiquen en una ruta en concreto, está diseñado para LINUX aunque está hecho para que sea funcional en Windows, la extensión de este ransomware es .mz que proviene de Manza aun que se puede cambiar.
+Estos dos códigos creados en python3 se trata para conocer el funcionamiento de un ransomware, este ransomware cifra los archivos que se le indiquen en una ruta en concreto, está diseñado para LINUX aunque está hecho para que sea funcional en Windows, la extensión de este ransomware es .mz que proviene de Manza aun que se puede cambiar.
 
     Sólo fue testeado en Linux
     Compatible con Windows --> Aunque necesita modificacion
